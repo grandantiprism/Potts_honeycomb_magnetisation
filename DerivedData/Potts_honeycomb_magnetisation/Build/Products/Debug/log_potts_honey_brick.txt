@@ -12,3 +12,66 @@ MCS: 1000000, Beta: 1.46 to 1.5
 Total Elapsed time: 645.54 seconds
 ---------------------------------------
 
+--- Honeycomb (Brickwork) Potts Log ---
+Date: Mon Jan 12 02:11:39 2026
+Lattice: Honeycomb(Brick), Q: 3, L: 32 (N=1024)
+MCS: 1000000, Beta: 1.46 to 1.5
+Total Elapsed time: 2357.64 seconds
+---------------------------------------
+
+--- Honeycomb (Brickwork) Potts Log ---
+Date: Mon Jan 12 02:36:11 2026
+Lattice: Honeycomb(Brick), Q: 3, L: 8 (N=64)
+MCS: 1000000, Beta: 1.46 to 1.5
+Total Elapsed time: 260.74 seconds
+---------------------------------------
+
+--- Honeycomb (Brickwork) Potts Log ---
+Date: Mon Jan 12 04:34:55 2026
+Lattice: Honeycomb(Brick), Q: 3, L: 64 (N=4096)
+MCS: 1000000, Beta: 1.46 to 1.5
+Total Elapsed time: 6390.92 seconds
+---------------------------------------
+
+--- Honeycomb (Brickwork) Potts Log ---
+Date: Mon Jan 12 17:43:04 2026
+Lattice: Honeycomb(Brick), Q: 3, L: 128 (N=16384)
+MCS: 1000000, Beta: 1.472 to 1.492
+Total Elapsed time: 18921.52 seconds
+---------------------------------------
+
+--- Honeycomb (Brickwork) Potts Log ---
+Date: Mon Jan 12 19:21:49 2026
+Lattice: Honeycomb(Brick), Q: 3, L: 64 (N=4096)
+MCS: 1000000, Beta: 1.472 to 1.492
+Total Elapsed time: 5731.21 seconds
+---------------------------------------
+
+--- Honeycomb (Brickwork) Potts Log ---
+Date: Mon Jan 12 19:54:06 2026
+Lattice: Honeycomb(Brick), Q: 3, L: 32 (N=1024)
+MCS: 1000000, Beta: 1.472 to 1.492
+Total Elapsed time: 1842.00 seconds
+---------------------------------------
+
+--- Honeycomb (Brickwork) Potts Log ---
+Date: Mon Jan 12 20:05:30 2026
+Lattice: Honeycomb(Brick), Q: 3, L: 16 (N=256)
+MCS: 1000000, Beta: 1.472 to 1.492
+Total Elapsed time: 616.87 seconds
+---------------------------------------
+
+--- Honeycomb (Brickwork) Potts Log ---
+Date: Mon Jan 12 20:09:45 2026
+Lattice: Honeycomb(Brick), Q: 3, L: 8 (N=64)
+MCS: 1000000, Beta: 1.472 to 1.492
+Total Elapsed time: 235.03 seconds
+---------------------------------------
+
+--- Honeycomb (Brickwork) Potts Log ---
+Date: Mon Jan 12 20:11:20 2026
+Lattice: Honeycomb(Brick), Q: 3, L: 4 (N=16)
+MCS: 1000000, Beta: 1.472 to 1.492
+Total Elapsed time: 84.92 seconds
+---------------------------------------
+
