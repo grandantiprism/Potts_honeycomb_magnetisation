@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>17CF8B1D-0D6A-46FA-AC66-55B251A6FC5C</key>
+		<key>62460C63-C581-454F-B8B6-0DA3EA09050C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>17CF8B1D-0D6A-46FA-AC66-55B251A6FC5C.xcactivitylog</string>
+			<string>62460C63-C581-454F-B8B6-0DA3EA09050C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,181 +40,13 @@
 			<key>signature</key>
 			<string>Build Potts_honeycomb_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789908112.02428997</real>
+			<real>789925919.68803501</real>
 			<key>timeStoppedRecording</key>
-			<real>789908113.24611294</real>
+			<real>789925921.44652605</real>
 			<key>title</key>
 			<string>Build Potts_honeycomb_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>17CF8B1D-0D6A-46FA-AC66-55B251A6FC5C</string>
-		</dict>
-		<key>2B754F43-97C9-4145-A3B5-FBEA79F7BC0A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2B754F43-97C9-4145-A3B5-FBEA79F7BC0A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789900376.12359595</real>
-			<key>timeStoppedRecording</key>
-			<real>789900377.68351495</real>
-			<key>title</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>2B754F43-97C9-4145-A3B5-FBEA79F7BC0A</string>
-		</dict>
-		<key>2CA1E4D3-D3E7-4542-AEE9-0F47B594F188</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2CA1E4D3-D3E7-4542-AEE9-0F47B594F188.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789906202.29058802</real>
-			<key>timeStoppedRecording</key>
-			<real>789906203.72550797</real>
-			<key>title</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>2CA1E4D3-D3E7-4542-AEE9-0F47B594F188</string>
-		</dict>
-		<key>4FB1D5E9-3300-48DB-95E0-93D0D24E5C38</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4FB1D5E9-3300-48DB-95E0-93D0D24E5C38.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789840481.14657903</real>
-			<key>timeStoppedRecording</key>
-			<real>789840482.61710799</real>
-			<key>title</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>4FB1D5E9-3300-48DB-95E0-93D0D24E5C38</string>
-		</dict>
-		<key>60F79AE4-5C38-4A52-888A-C94DF95FEFE1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>60F79AE4-5C38-4A52-888A-C94DF95FEFE1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789908748.73934197</real>
-			<key>timeStoppedRecording</key>
-			<real>789908750.02667201</real>
-			<key>title</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>60F79AE4-5C38-4A52-888A-C94DF95FEFE1</string>
+			<string>62460C63-C581-454F-B8B6-0DA3EA09050C</string>
 		</dict>
 		<key>7A05D559-5843-4C20-BD7B-BF55159497AC</key>
 		<dict>
@@ -258,7 +90,7 @@
 			<key>uniqueIdentifier</key>
 			<string>7A05D559-5843-4C20-BD7B-BF55159497AC</string>
 		</dict>
-		<key>A0E425CE-8FFD-45B8-AA75-E2C3BA37C513</key>
+		<key>D406AA8C-E839-4EE2-AB5A-4C853F585174</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -267,7 +99,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A0E425CE-8FFD-45B8-AA75-E2C3BA37C513.xcactivitylog</string>
+			<string>D406AA8C-E839-4EE2-AB5A-4C853F585174.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -292,15 +124,15 @@
 			<key>signature</key>
 			<string>Build Potts_honeycomb_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789881260.08157504</real>
+			<real>789909608.08471406</real>
 			<key>timeStoppedRecording</key>
-			<real>789881261.62690699</real>
+			<real>789909609.59440994</real>
 			<key>title</key>
 			<string>Build Potts_honeycomb_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>A0E425CE-8FFD-45B8-AA75-E2C3BA37C513</string>
+			<string>D406AA8C-E839-4EE2-AB5A-4C853F585174</string>
 		</dict>
-		<key>B28173E2-8A5C-4432-8F76-EF292A4888C7</key>
+		<key>FA3C6687-8675-4174-97AC-539B8D867997</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -309,7 +141,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B28173E2-8A5C-4432-8F76-EF292A4888C7.xcactivitylog</string>
+			<string>FA3C6687-8675-4174-97AC-539B8D867997.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -334,139 +166,13 @@
 			<key>signature</key>
 			<string>Build Potts_honeycomb_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789846497.99261105</real>
+			<real>789926092.70764804</real>
 			<key>timeStoppedRecording</key>
-			<real>789846503.21920097</real>
+			<real>789926092.94071901</real>
 			<key>title</key>
 			<string>Build Potts_honeycomb_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>B28173E2-8A5C-4432-8F76-EF292A4888C7</string>
-		</dict>
-		<key>B3B17049-719B-47AB-B9BF-905CE5DA56DC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B3B17049-719B-47AB-B9BF-905CE5DA56DC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789839890.609671</real>
-			<key>timeStoppedRecording</key>
-			<real>789839894.35319495</real>
-			<key>title</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>B3B17049-719B-47AB-B9BF-905CE5DA56DC</string>
-		</dict>
-		<key>E0E15EC2-6C31-411C-9591-2ED8C72FA5B6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E0E15EC2-6C31-411C-9591-2ED8C72FA5B6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789841939.97590005</real>
-			<key>timeStoppedRecording</key>
-			<real>789841941.54092896</real>
-			<key>title</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>E0E15EC2-6C31-411C-9591-2ED8C72FA5B6</string>
-		</dict>
-		<key>ED35C765-ACEB-442D-BC7C-D08A0BA64806</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>ED35C765-ACEB-442D-BC7C-D08A0BA64806.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789845507.88281703</real>
-			<key>timeStoppedRecording</key>
-			<real>789845509.72778296</real>
-			<key>title</key>
-			<string>Build Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>ED35C765-ACEB-442D-BC7C-D08A0BA64806</string>
+			<string>FA3C6687-8675-4174-97AC-539B8D867997</string>
 		</dict>
 	</dict>
 </dict>

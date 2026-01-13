@@ -75,3 +75,17 @@ MCS: 1000000, Beta: 1.472 to 1.492
 Total Elapsed time: 84.92 seconds
 ---------------------------------------
 
+--- Honeycomb (Brickwork) Potts Log ---
+Date: Tue Jan 13 00:35:38 2026
+Lattice: Honeycomb(Brick), Q: 4, L: 128 (N=16384)
+MCS: 1000000, Beta: 1.597 to 1.617
+Total Elapsed time: 15327.74 seconds
+---------------------------------------
+
+--- Honeycomb (Brickwork) Potts Log ---
+Date: Tue Jan 13 05:47:38 2026
+Lattice: Honeycomb(Brick), Q: 4, L: 128 (N=16384)
+MCS: 1000000, Beta: 1.604 to 1.614
+Total Elapsed time: 17565.13 seconds
+---------------------------------------
+

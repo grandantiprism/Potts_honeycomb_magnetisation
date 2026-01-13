@@ -6,10 +6,10 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>01D979B9-3543-4C42-9493-0D3231696540</key>
+		<key>2891F4CD-8FC0-4D66-9ECB-34B27AF9D7C2</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>ED35C765-ACEB-442D-BC7C-D08A0BA64806</string>
+			<string>FA3C6687-8675-4174-97AC-539B8D867997</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Potts_honeycomb_magnetisation-2026.01.12_02-31-47-+0900.xcresult</string>
+			<string>Run-Potts_honeycomb_magnetisation-2026.01.13_00-54-52-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -59,22 +59,22 @@
 			<key>signature</key>
 			<string>Run Potts_honeycomb_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789845507.87997496</real>
+			<real>789926092.70748794</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Potts_honeycomb_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>01D979B9-3543-4C42-9493-0D3231696540</string>
+			<string>2891F4CD-8FC0-4D66-9ECB-34B27AF9D7C2</string>
 		</dict>
-		<key>05DE3E44-DEE3-4D2E-87AA-93D320A8D006</key>
+		<key>39D21B3A-FCAF-4F7C-889B-AAA2314DCDD2</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>B3B17049-719B-47AB-B9BF-905CE5DA56DC</string>
+			<string>62460C63-C581-454F-B8B6-0DA3EA09050C</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
@@ -82,7 +82,7 @@
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
+				<integer>0</integer>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -91,7 +91,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Potts_honeycomb_magnetisation-2026.01.12_00-58-10-+0900.xcresult</string>
+			<string>Run-Potts_honeycomb_magnetisation-2026.01.13_00-51-59-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -101,7 +101,7 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
@@ -109,7 +109,7 @@
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
+				<integer>0</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Potts_honeycomb_magnetisation project</string>
@@ -120,18 +120,18 @@
 			<key>signature</key>
 			<string>Run Potts_honeycomb_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789839890.60954905</real>
+			<real>789925919.68702698</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Potts_honeycomb_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>05DE3E44-DEE3-4D2E-87AA-93D320A8D006</string>
+			<string>39D21B3A-FCAF-4F7C-889B-AAA2314DCDD2</string>
 		</dict>
-		<key>26C3D367-0744-43D2-AB81-A6AA0AF799BA</key>
+		<key>7143006F-FCDD-401E-A383-F8D1F7C480ED</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>A0E425CE-8FFD-45B8-AA75-E2C3BA37C513</string>
+			<string>D406AA8C-E839-4EE2-AB5A-4C853F585174</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -152,7 +152,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Potts_honeycomb_magnetisation-2026.01.12_12-27-40-+0900.xcresult</string>
+			<string>Run-Potts_honeycomb_magnetisation-2026.01.12_20-20-08-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -181,379 +181,13 @@
 			<key>signature</key>
 			<string>Run Potts_honeycomb_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789881260.08050203</real>
+			<real>789909608.08458197</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Potts_honeycomb_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>26C3D367-0744-43D2-AB81-A6AA0AF799BA</string>
-		</dict>
-		<key>3D055540-CA5C-44D0-ADA5-68FEBB92A063</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>B28173E2-8A5C-4432-8F76-EF292A4888C7</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_honeycomb_magnetisation-2026.01.12_02-48-17-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789846497.99100101</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>3D055540-CA5C-44D0-ADA5-68FEBB92A063</string>
-		</dict>
-		<key>46106E46-3598-4C06-9538-7D7AD9E15B60</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>17CF8B1D-0D6A-46FA-AC66-55B251A6FC5C</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_honeycomb_magnetisation-2026.01.12_19-55-12-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789908112.02330995</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>46106E46-3598-4C06-9538-7D7AD9E15B60</string>
-		</dict>
-		<key>575C5924-90DD-4E34-812D-164A7EBFC6FD</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>E0E15EC2-6C31-411C-9591-2ED8C72FA5B6</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_honeycomb_magnetisation-2026.01.12_01-32-19-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789841939.97578001</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>575C5924-90DD-4E34-812D-164A7EBFC6FD</string>
-		</dict>
-		<key>93335E74-02D8-4ABF-B122-534D21BC7EB3</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>2B754F43-97C9-4145-A3B5-FBEA79F7BC0A</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_honeycomb_magnetisation-2026.01.12_17-46-16-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789900376.12297404</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>93335E74-02D8-4ABF-B122-534D21BC7EB3</string>
-		</dict>
-		<key>A99B0AFB-1405-45F4-B74A-3714B831DC45</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>2CA1E4D3-D3E7-4542-AEE9-0F47B594F188</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_honeycomb_magnetisation-2026.01.12_19-23-22-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789906202.29045105</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>A99B0AFB-1405-45F4-B74A-3714B831DC45</string>
-		</dict>
-		<key>B2AA851B-8214-40DB-93D5-C132EAEC47F4</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>60F79AE4-5C38-4A52-888A-C94DF95FEFE1</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_honeycomb_magnetisation-2026.01.12_20-05-48-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789908748.73840702</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>B2AA851B-8214-40DB-93D5-C132EAEC47F4</string>
+			<string>7143006F-FCDD-401E-A383-F8D1F7C480ED</string>
 		</dict>
 		<key>B5418777-F2AA-42CA-BFD2-53E67964B724</key>
 		<dict>
@@ -615,67 +249,6 @@
 			<string>Run Potts_honeycomb_magnetisation</string>
 			<key>uniqueIdentifier</key>
 			<string>B5418777-F2AA-42CA-BFD2-53E67964B724</string>
-		</dict>
-		<key>CC9B40DE-3797-48EE-8BDB-DB27238DE5C2</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>4FB1D5E9-3300-48DB-95E0-93D0D24E5C38</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_honeycomb_magnetisation-2026.01.12_01-08-01-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_honeycomb_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_honeycomb_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789840481.14616299</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_honeycomb_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>CC9B40DE-3797-48EE-8BDB-DB27238DE5C2</string>
 		</dict>
 	</dict>
 </dict>

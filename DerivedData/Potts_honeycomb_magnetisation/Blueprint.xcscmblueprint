@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C3B54E9E7E8FFD6F4D9EBF5698AFE8B69A08B664",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C3B54E9E7E8FFD6F4D9EBF5698AFE8B69A08B664" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CD576CDB-4269-4B11-8DED-9FD5853DA33E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C3B54E9E7E8FFD6F4D9EBF5698AFE8B69A08B664" : "Potts_honeycomb_magnetisation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Potts_honeycomb_magnetisation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Potts_honeycomb_magnetisation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/grandantiprism\/Potts_honeycomb_magnetisation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C3B54E9E7E8FFD6F4D9EBF5698AFE8B69A08B664"
+    }
+  ]
+}

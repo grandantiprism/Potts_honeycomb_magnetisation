@@ -15,15 +15,15 @@ using namespace std;
 namespace fs = std::filesystem;
 
 // --- パラメータ設定 ---
-const int Q = 3;
-const int L = 4;            // 格子サイズ（偶数を推奨）
+const int Q = 4;
+const int L = 128;            // 格子サイズ（偶数を推奨）
 const int N = L * L;        // サイト数を2倍にせず L*L のまま
 const int MCS = 1000000;
 const int THERM = L * 20;
 
 // 理論的転移点: y^3 + 3y^2 - q = 0 の解 (q=3なら beta_c ≈ 1.4842, q=4なら beta_c ≈ 1.6094)
-const double beta_min = 1.472;
-const double beta_max = 1.492;
+const double beta_min = 1.604; // q=3 1.472
+const double beta_max = 1.614; // q=3 1.492
 const int num_beta = 20;
 
 struct PottsHoneycombBrick {
@@ -109,7 +109,7 @@ int main() {
 
         stringstream ss;
         ss << dir_name << "/beta_" << fixed << setprecision(5) << beta << ".txt";
-        ofstream ofs(ss.str());
+        ofstream ofs(ss.str(), ios::app);
         
         cout << "Honeycomb Potts q=" << Q << ", beta=" << beta << " ... " << endl;
 
