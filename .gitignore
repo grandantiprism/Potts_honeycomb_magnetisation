@@ -1,1 +1,2 @@
-DerivedData/Potts_honeycomb_magnetisation/Build/Products/Debug/output_honey_brick/
+DerivedData/Potts_honeycomb_magnetisation/Build/Products/Debug/output_honey_brick/*
+!DerivedData/Potts_honeycomb_magnetisation/Build/Products/Debug/output_honey_brick/analyse.py
