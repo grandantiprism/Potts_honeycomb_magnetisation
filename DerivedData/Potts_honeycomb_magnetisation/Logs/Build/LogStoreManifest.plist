@@ -6,6 +6,90 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>2E1DEC94-BC86-47D3-B25D-6B96CDFC08CC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2E1DEC94-BC86-47D3-B25D-6B96CDFC08CC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_honeycomb_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_honeycomb_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_honeycomb_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790412218.52044797</real>
+			<key>timeStoppedRecording</key>
+			<real>790412222.038463</real>
+			<key>title</key>
+			<string>Build Potts_honeycomb_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>2E1DEC94-BC86-47D3-B25D-6B96CDFC08CC</string>
+		</dict>
+		<key>9E10DB11-6255-421D-80AE-4D35E8AD8FB7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E10DB11-6255-421D-80AE-4D35E8AD8FB7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_honeycomb_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_honeycomb_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_honeycomb_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790441621.97522604</real>
+			<key>timeStoppedRecording</key>
+			<real>790441623.90155697</real>
+			<key>title</key>
+			<string>Build Potts_honeycomb_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>9E10DB11-6255-421D-80AE-4D35E8AD8FB7</string>
+		</dict>
 		<key>A26BB62C-E9FF-4CEF-A477-507976603FE3</key>
 		<dict>
 			<key>className</key>
@@ -47,6 +131,48 @@
 			<string>Build Potts_honeycomb_magnetisation</string>
 			<key>uniqueIdentifier</key>
 			<string>A26BB62C-E9FF-4CEF-A477-507976603FE3</string>
+		</dict>
+		<key>E90C07EB-51AD-411C-AABD-41757D62439F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E90C07EB-51AD-411C-AABD-41757D62439F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_honeycomb_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_honeycomb_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_honeycomb_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790435072.90094399</real>
+			<key>timeStoppedRecording</key>
+			<real>790435078.97453701</real>
+			<key>title</key>
+			<string>Build Potts_honeycomb_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>E90C07EB-51AD-411C-AABD-41757D62439F</string>
 		</dict>
 	</dict>
 </dict>

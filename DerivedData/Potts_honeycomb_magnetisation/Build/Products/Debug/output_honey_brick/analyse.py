@@ -60,6 +60,9 @@ def plot_binder_for_q(root_dir, target_q, lattice_type="honeycomb"):
         return
 
     for i, (L, folder) in enumerate(target_folders):
+        if L not in l_list:
+            continue
+
         path = os.path.join(root_dir, folder)
         print(f"Processing q={target_q}, L={L}: {folder}...")
         
@@ -104,6 +107,7 @@ def plot_binder_for_q(root_dir, target_q, lattice_type="honeycomb"):
 # --- 実行 ---
 # root_directory = "output_potts" などのフォルダを指定
 root_directory = "." 
+l_list = [16, 24, 32, 48, 64, 96, 128]
 
 # 解析したいq値と格子タイプを個別に指定して実行できます
 # plot_binder_for_q(root_directory, target_q=3, lattice_type="triangular")

@@ -16,7 +16,7 @@ namespace fs = std::filesystem;
 
 // --- パラメータ設定 ---
 const int Q = 4;
-const int L = 4;            // 格子サイズ（偶数を推奨）
+const int L = 24;            // 格子サイズ（偶数を推奨）
 const int N = L * L;        // サイト数を2倍にせず L*L のまま
 const int MCS = 1000000;
 const int THERM = L * 20;
